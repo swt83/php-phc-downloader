@@ -10,8 +10,8 @@ class App
 	public static function run()
 	{
 		// set year
-		$year_start = 2017;
-		$year_stop = 2020;
+		$year_start = 1996;
+		$year_stop = 2018;
 
 		// get dates
 		$dates = static::get_dates($year_start, $year_stop);
