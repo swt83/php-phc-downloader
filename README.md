@@ -19,7 +19,7 @@ $ php run
 
 Rerunning the app will auto-skip the files that already exist on your hard drive.  It took me about 24 hours to download the entire archive.  The total filesize was 130 GB.
 
-# Cleaning
+## Cleaning
 
 I like to nuke the ID3 metadata on the files.
 
